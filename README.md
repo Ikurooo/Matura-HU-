@@ -1,5 +1,5 @@
 ## Description
-Tiny little scripts/projects that i created back in the day to learn the fundimentals of programming.
+Tiny little scripts/projects that I created back in the day (2021) to learn the fundimentals of programming.
 These tiny projects are based on the Hungarian matura and the respective exercises are attached as pdfs.
 
 ## Order
